@@ -1,2 +1,2 @@
 # Students Registration portal
- students registreation system
+ Students registration system provides registration portal where students can register their details and also delete or edit records.
